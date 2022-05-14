@@ -1,0 +1,41 @@
+﻿  AscensoColina.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\AscensoColina.h(45,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  AStar.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\AStar.h(27,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\AStar.h(68,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  BeamSearch.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\BeamSearch.h(25,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\BeamSearch.h(64,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Bidireccional.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\Bidireccional.h(32,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\Bidireccional.h(40,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Estructuras.cpp
+  K_Beans.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\K_Beans.h(16,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\K_Beans.h(56,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PrimeroAncho.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\PrimeroAncho.h(27,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PrimeroMejor.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\PrimeroMejor.h(46,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PrimeroProfundidad.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\PrimeroProfundidad.h(27,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ProfundidadIterativa.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\ProfundidadLimitada.h(28,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ProfundidadLimitada.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\ProfundidadLimitada.h(28,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Source.cpp
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\PrimeroAncho.h(27,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\PrimeroProfundidad.h(27,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\Bidireccional.h(32,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\Bidireccional.h(40,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\ProfundidadLimitada.h(28,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\AscensoColina.h(45,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\K_Beans.h(16,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\K_Beans.h(56,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\PrimeroMejor.h(46,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\BeamSearch.h(25,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\BeamSearch.h(64,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\AStar.h(27,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\AStar.h(68,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  busqueda.vcxproj -> E:\6to Semestre\IA\IA Code\1er Parcial\AlgoritmosBusquedaCPP-main\x64\Debug\busqueda.exe
